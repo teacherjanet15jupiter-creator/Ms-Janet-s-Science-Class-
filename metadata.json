@@ -1,0 +1,6 @@
+{
+  "name": "Ms. Janet's Science Lab & Team Weaver",
+  "description": "Intelligent student team grouping, diversity analytics, customizable grading rubrics, gamified streaks, and attendance tracking for Primary 5 & 6 Science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
